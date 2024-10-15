@@ -1,7 +1,7 @@
 const Section1 = () => {
     return (
         <section className="px-4 sm:px-24 2xl:px-32 mb-20" id="benefits">
-            <div className="bg-[url('/img/caracteristicas_bg.png')] rounded-xl p-8 mt-16 relative min-h-[1150px] sm:min-h-[380px] 2xl:min-h-[500px]">
+            <div className="bg-[url('/img/caracteristicas_bg.webp')] rounded-xl p-8 mt-16 relative min-h-[1150px] sm:min-h-[380px] 2xl:min-h-[500px]">
                 <div className="absolute top-0 right-0">
                     <img src="/img/frameSection.png" className="w-full min-h-[150px] sm:min-h-0" />
                     <span className="absolute top-0 right-0 uppercase text-white text-2xl text-center sm:text-left sm:text-4xl font-bold py-2 px-4">Invierte Hoy, Maximiza Mañana</span>

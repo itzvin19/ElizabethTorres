@@ -13,7 +13,7 @@ const Header = () => {
         <a href="https://wa.me/51984497003?text=¡Hola%20Elizabeth!%20Estoy%20interesado/a%20en%20obtener%20más%20información%20sobre%20los%20terrenos%20disponibles%20cerca%20del%20megapuerto%20de%20Chancay.%20¿Podrías%20ayudarme,%20por%20favor?" target="_blank" className="bg-yellow-600 text-center hover:bg-yellow-800 duration-150 shadow-black shadow-md text-white p-4 rounded-md w-full 2xl:text-3xl 2xl:p-6 sm:m-2">¡Reserva tu visita hoy mismo!</a>
       </div>
       <div className="">
-        <img src="./img/header_main.png" className="mt-8 sm:mt-0 w-11/12 sm:w-full max-h-[550px]" alt="" />
+        <img src="./img/header_main.webp" className="mt-8 sm:mt-0 w-11/12 sm:w-full max-h-[550px]" alt="" />
       </div>
     </div>
   </section>
